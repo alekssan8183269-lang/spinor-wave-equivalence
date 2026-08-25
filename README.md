@@ -23,6 +23,24 @@
 *   **`≡_complex` (Комплексное равенство):** Базовый оператор, возвращающий значение вида \(a + bi\). Реальная часть (\(a\)) фиксирует соответствие объектов в плоской ортогональной метрике Земли, мнимая часть (\(bi\)) — их фазовый потенциал связи в высшем измерении.
 *   **`≡_graph` (Равно Граф):** Описывает отношение эквивалентности через распределенную сеть связей (топологический граф), вычисляя проводимость всей системы дорожек одновременно.
 
+```
+                     ┌──────────────────────────────┐
+                     │    INFINITE CHAOS / KNOTS    │
+                     └──────────────┬───────────────┘
+                                    │
+                                    ▼  [Longitudinal Wave Strike]
+                     ┌──────────────────────────────┐
+                     │   OPERATOR: ≡_complex(θ)     │
+                     └──────────────┬───────────────┘
+                                    │
+           ┌────────────────────────┴────────────────────────┐
+           ▼ (Re)                                            ▼ (Im)
+┌──────────────────────────┐                      ┌──────────────────────────┐
+│ Flat 3D Earth Domain (a) │                      │ Latent Hyper-Space (bi)  │
+│  [Visible Measurement]   │                      │    [Phase Reservoir]     │
+└──────────────────────────┘                      └──────────────────────────┘
+```
+
 ---
 
 ## 3. Архитектура Управляющего Роя (Core Modules)
@@ -153,7 +171,15 @@ if __name__ == "__main__":
 
 ---
 
-## 6. Цитирование (Citation)
+## 6. Global Academic Lineage & Cross-Disciplinary Grounding
+
+This framework bridges the abstract formulations of three major historic scientific lineages, moving them from paper into execution:
+
+*   **The Fuzzy Logic & Qualitative Trigonometry School (Zadeh):** Expanding membership functions into dynamic relational operators, removing the rigid constraints of Boolean algebra.
+*   **The Quantum Logic and Coalgebraic Ensembles (Von Neumann & Birkhoff):** Implementing complex probability amplitudes to navigate states of systemic contradiction without halting.
+*   **The Reversible Computing & Information Physics Domain (Landauer & Bennett):** Enforcing zero-entropy memory preservation by routing failed logic branches onto the imaginary axis, locking the 140W core into thermal equilibrium.
+
+## 7. Цитирование (Citation)
 Если вы используете данный математический аппарат в исследованиях ссылайтесь на :
 ```text
 Moiseenko, A. (2026). 
